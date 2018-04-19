@@ -1,15 +1,7 @@
 language: csharp
-solution: ecencryptdotnet.sln
-sudo: false
-dist: trusty
-env:
-  global:
-  - DOTNET_SKIP_FIRST_TIME_EXPERIENCE: true
-  - DOTNET_CLI_TELEMETRY_OPTOUT: 1
 mono: none
-os:
-- linux
-addons:
-  apt:
-    packages:
-    - libunwind8
+dotnet: 2.1.105
+script:
+ - dotnet restore
+ - dotnet build ec_encryptcore
+ - dotnet test ECToken.Test
