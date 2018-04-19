@@ -1,4 +1,4 @@
-1
+2
 
 [![Build status](https://ci.appveyor.com/api/projects/status/fv1xfec09184lpt4?svg=true)](https://ci.appveyor.com/project/HattanShobokshi/ectoken)
 
