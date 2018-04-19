@@ -1,5 +1,5 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/fv1xfec09184lpt4?svg=true)](https://ci.appveyor.com/project/HattanShobokshi/ectoken)
-[![Build Status](https://travis-ci.org/hattan/ectoken-csharp.svg?branch=master)](https://travis-ci.org/hattan/ectoken-csharp)
+AppVeyor:[![Build status](https://ci.appveyor.com/api/projects/status/fv1xfec09184lpt4?svg=true)](https://ci.appveyor.com/project/HattanShobokshi/ectoken)
+Travis (core): [![Build Status](https://travis-ci.org/hattan/ectoken-csharp.svg?branch=master)](https://travis-ci.org/hattan/ectoken-csharp)
 
 ![Verizon Digital Media Services](https://images.verizondigitalmedia.com/2016/03/vdms-30.png)
 
