@@ -5,3 +5,4 @@ script:
  - dotnet restore
  - dotnet build ec_encryptcore
  - dotnet test ECToken.Test
+ - echo $nugetkey
