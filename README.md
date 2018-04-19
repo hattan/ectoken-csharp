@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/fv1xfec09184lpt4?svg=true)](https://ci.appveyor.com/project/HattanShobokshi/ectoken)
+
 ![Verizon Digital Media Services](https://images.verizondigitalmedia.com/2016/03/vdms-30.png)
 
 
