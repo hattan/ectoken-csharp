@@ -5,4 +5,5 @@ script:
  - dotnet restore
  - dotnet build ec_encryptcore
  - dotnet test ECToken.Test
- - echo $nugetkey
+ - dotnet pack -o dist /p:PackageVersion=1.0.$TRAVIS_BUILD_NUMBER-alpha ecencryptstdlib/ecencryptstdlib.csproj
+ - otnet nuget push ecencryptstdlib/dist/ECToken.1.0.$TRAVIS_BUILD_NUMBER-alpha.nupkg -k $nugetKey -s https://api.nuget.org/v3/index.json
