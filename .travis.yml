@@ -1,4 +1,7 @@
 language: csharp
+branches:
+  only: 
+    - master
 mono: none
 dotnet: 2.1.105
 script:
