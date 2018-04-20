@@ -26,3 +26,6 @@ Please refer to the CDN Help Center, which is available from within the MCC, for
 ## License
 
 [View legal and licensing information.](LICENSE.txt)
+
+## Other Languages & Documentation
+ You can find implementations of EC Token in other languages and further documentation on the [EC Token Repo](https://github.com/hattan/ectoken).
