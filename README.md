@@ -1,3 +1,5 @@
+1
+
 AppVeyor:      [![Build status](https://ci.appveyor.com/api/projects/status/fv1xfec09184lpt4?svg=true)](https://ci.appveyor.com/project/HattanShobokshi/ectoken)
 
 Travis (core): [![Build Status](https://travis-ci.org/hattan/ectoken-csharp.svg?branch=master)](https://travis-ci.org/hattan/ectoken-csharp)
