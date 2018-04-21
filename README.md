@@ -1,3 +1,5 @@
+useless number: 1
+
 AppVeyor:      [![Build status](https://ci.appveyor.com/api/projects/status/m5d3gwutck9t5p4i?svg=true)](https://ci.appveyor.com/project/HattanShobokshi/ectoken-csharp)
 
 Travis (core): [![Build Status](https://travis-ci.org/hattan/ectoken-csharp.svg?branch=master)](https://travis-ci.org/hattan/ectoken-csharp)
